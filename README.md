@@ -1,5 +1,4 @@
 # Horiseon
-HM 1
 This is a web page that connects you to a media expert "Horiseon".
 
 ## Description
@@ -24,6 +23,7 @@ Provides instruction and information by clicking on each title link in the navig
 Please refer to the LICENSE in the repo.
 
 
+![Horiseon screen shot](https://user-images.githubusercontent.com/112971239/192774846-7a154856-247b-42d4-9dd8-e0609bb515eb.png)
 
 ## link to Horiseon
 file:///Users/angela/Desktop/coding%20folder/Horiseom/index.html
